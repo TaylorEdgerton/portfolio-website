@@ -78,3 +78,10 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+
+<div style="float:left;">
+    <a href="/">PREVIOUS PROJECT</a>
+</div>
+<div style="float:right;">
+    <a href="/">NEXT PROJECT</a>
+</div>
