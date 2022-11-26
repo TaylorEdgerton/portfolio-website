@@ -4,7 +4,7 @@ title: eForest
 description: Griffith University and Optus Mobile App
 img: assets/img/eforest-img.png
 importance: 1
-category: work
+
 ---
 
 I conducted research into users of forests surrounding the Griffith University campus in order to create a mobile app prototype called "eForest". The research described the audience intended to use the technology, as well as analysed the UI/UX effectiveness of the prototype I created. 

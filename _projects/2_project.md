@@ -4,7 +4,7 @@ title: Javascript Game
 description: Javascript Game using p5js and p5play libraries
 img: /assets/img/title.png
 importance: 2
-category: work
+
 ---
 
 As part of a creative coding assignment, I was required to create a web based game using Javascript and Javascript libraries p5js and p5play. 

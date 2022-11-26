@@ -4,7 +4,7 @@ title: Web Chat App
 description: A web chat app utilising Nodejs backend, and Angular front end frameworks.
 img: assets/img/7.jpg
 importance: 3
-category: work
+
 ---
 
 I was required to create a web chat app using Angular front and a Nodejs server back end. Requirements included the use of Socket.io modules and connections, express modules and REST apis for communication between client and server sides of the application. 
