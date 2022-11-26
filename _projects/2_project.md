@@ -1,87 +1,54 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Javascript Game
+description: Javascript Game using p5js and p5play libraries
+img: /assets/img/title.png
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As part of a creative coding assignment, I was required to create a web based game using Javascript and Javascript libraries p5js and p5play. 
+The game contains images, animations, sounds and reads from a JSON file.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Missile sprites are randomly created and fall from the sky towards the ground and buildings below. The user crosshair is used to shoot defence missiles towards attack missiles. If an attack missile collides with a defence missile explosion, the attack missile explodes and bonus missiles are added to the user missile count. Special drop red planes can be shot down for bonus user missiles aswell. Game difficulty increases as time goes on, with more missiles spawning in at faster velocities. The game ends when all the buildings on the ground have been blown up by colliding attack missiles. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project was my introduction to reading documentation and applying code to fullfill requirements.
+
+
+The game source code and be found [Here](https://github.com/TaylorEdgerton/Creative-Coding-Game)
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Screenshot 2.png" title="Screenshot 2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Screenshot 1.png" title="Screenshot 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Screenshot 3.png" title="Screenshot 3" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Screenshots of game pages including title page, main menu and game page. 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Screenshot 4.png" title="Screenshot 4" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Screenshot 5.png" title="Screenshot 5" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The game ends when all buildings are destroyed by missiles, and the final score is displayed.
 </div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
 
 <div style="float:left;">
-    <a href="/">PREVIOUS PROJECT</a>
+    <a href="/projects/1_project">PREVIOUS PROJECT</a>
 </div>
 <div style="float:right;">
-    <a href="/">NEXT PROJECT</a>
+    <a href="/projects/3_project">NEXT PROJECT</a>
 </div>

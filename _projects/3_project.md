@@ -1,25 +1,18 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Web Chat App
+description: A web chat app utilising Nodejs backend, and Angular front end frameworks.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I was required to create a web chat app using Angular front and a Nodejs server back end. Requirements included the use of Socket.io modules and connections, express modules and REST apis for communication between client and server sides of the application. 
+The application would contain groups and channels where clients can communicate with eachother. Mongodb was used for object oriented database queries access and storage of user and chat information. Different privelidges were also required for Admin users. Unit testing was also required using chaijs.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project was my introduction to designing and implimenting server side functionality which communicates with the client side using REST apis. This was also further demonstration for the use of reading documentation to impliment frameworks such as Nodejs, sockets and express to solve a problem. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The project source files can be found [HERE](https://github.com/TaylorEdgerton/3813ICT_Assignment)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -79,3 +72,10 @@ Here's the code for the last row of images above:
 </div>
 ```
 {% endraw %}
+
+<div style="float:left;">
+    <a href="/projects/2_project">PREVIOUS PROJECT</a>
+</div>
+<div style="float:right;">
+    <a href="/projects/4_project">NEXT PROJECT</a>
+</div>

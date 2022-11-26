@@ -49,5 +49,5 @@ Part 2 involved the creation mobile app prototype made with Adobe XD, along with
 
 
 <div style="float:right;">
-    <a href="/">NEXT PROJECT</a>
+    <a href="/projects/2_project">NEXT PROJECT</a>
 </div>
