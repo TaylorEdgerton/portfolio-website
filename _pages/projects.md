@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /Projects/
-description: A growing collection of your cool projects.
+description: Projects demonstrating Software Development knowledge and skills
 nav: true
 nav_order: 2
 display_categories: [work, fun]

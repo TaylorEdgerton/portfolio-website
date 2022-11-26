@@ -5,6 +5,7 @@ description: Mobile app using Ionic
 img: ./assets/img/app-screenshot1.png
 importance: 3
 
+
 ---
 
 I was required to design and create a mobile app using Ionic that utilises local storage, modals and APIs. I decided to create a flood emergency registration app for Lismore, after the recent flood emergencies. User's input their household information, can view their location and their nearest evacuation center on a google map API.
