@@ -4,7 +4,7 @@ title: Flood Emergency Mobile App
 description: Mobile app using Ionic
 img: ./assets/img/app-screenshot1.png
 importance: 3
-category: work
+
 ---
 
 I was required to design and create a mobile app using Ionic that utilises local storage, modals and APIs. I decided to create a flood emergency registration app for Lismore, after the recent flood emergencies. User's input their household information, can view their location and their nearest evacuation center on a google map API.
@@ -31,5 +31,11 @@ The github repository can be found [Here](https://github.com/TaylorEdgerton/Floo
 </div>
 <div class="caption">
     Screenshots of the "add household" modal, main menu and map screens.
+</div>
+<div style="float:left;">
+    <a href="/projects/1_project">PREVIOUS PROJECT</a>
+</div>
+<div style="float:right;">
+    <a href="/">NEXT PROJECT</a>
 </div>
 
