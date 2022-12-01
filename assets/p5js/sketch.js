@@ -81,8 +81,8 @@ function preload(){
     scoreTitle = loadImage('../../assets/p5js/assets/Text/score.png');
     airDropImg = loadImage('../../assets/p5js/assets/SpaceShip.png');
     cityImg = loadImage('../../assets/p5js/assets/City.png');
-    crossHairImg1 = loadImage('../../assets/p5js/assets/crosshair/crosshair1.png'); 
-    crossHairImg2 = loadImage('../../assets/p5js/assets/crosshair/crosshair.png'); 
+    crossHairImg1 = loadImage('../../assets/p5js/assets/Crosshair/crosshair1.png'); 
+    crossHairImg2 = loadImage('../../assets/p5js/assets/Crosshair/crosshair.png'); 
     attackImage = loadImage('../../assets/p5js/assets/rockets/attack.png'); 
     backgroundImage = loadImage('../../assets/p5js/assets/background.png');
     plane = loadImage('../../assets/p5js/assets/SpaceShip.png');
