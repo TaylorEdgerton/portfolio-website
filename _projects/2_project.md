@@ -15,7 +15,9 @@ Missile sprites are randomly created and fall from the sky towards the ground an
 This project was my introduction to reading documentation and applying code to fullfill requirements.
 
 
-The game source code and be found [Here](https://github.com/TaylorEdgerton/Creative-Coding-Game)
+The full game source code and be found [Here](https://github.com/TaylorEdgerton/Creative-Coding-Game)
+
+and to play the game in browser, [Click Here](../../assets/p5js/index.html)
 
 
 <div class="row">
@@ -46,9 +48,19 @@ The game source code and be found [Here](https://github.com/TaylorEdgerton/Creat
     The game ends when all buildings are destroyed by missiles, and the final score is displayed.
 </div>
 
+<!-- <div class="row d-flex justify-content-center" >
+    <div class = "col-lg mt-12 mt-md-0" style="padding-top:1em;"> 
+        <div style="justify-content: center;"></div>
+        <script src="../../assets/p5js/sketch.js"></script>
+    </div>
+</div> -->
+
+
 <div style="float:left;">
     <a href="/projects/1_project">PREVIOUS PROJECT</a>
 </div>
 <div style="float:right;">
     <a href="/projects/3_project">NEXT PROJECT</a>
-</div>
+<!-- </div>
+<p style="float:both; padding-top:5em;">Demo of game below</p> -->
+
