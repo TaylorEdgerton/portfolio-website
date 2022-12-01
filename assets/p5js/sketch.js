@@ -70,7 +70,7 @@ function preload(){
     //---------------SOUNDS---------------------------------------
     explSound = loadSound('../../assets/p5js/assets/Sounds/explosionSound.wav');
     laserSound = loadSound('../../assets/p5js/assets/Sounds/laser.wav');
-    enemySound = loadSound('../../assets/p5js/assets/sounds/launch.wav');
+    enemySound = loadSound('../../assets/p5js/assets/Sounds/launch.wav');
     error = loadSound('../../assets/p5js/assets/Sounds/error.mp3');
     NextLevelSound = loadSound('../../assets/p5js/assets/Sounds/NextLevel.wav');
     // introMusic = loadSound('../../assets/p5js/assets/Sounds/throughSpace.mp3');
@@ -513,8 +513,6 @@ function setup(){
     protect()
 }
 
-let a = createA('http://p5js.org/', 'this is a link');
-a.position(0, 0);
 function draw(){
     //---border for crosshair-------------------------------
     crossHair.collide(borders)
