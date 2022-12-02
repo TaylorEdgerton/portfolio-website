@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Bachelor of Information Technology <br> Major in Software Development</b>  <br> <i>Current Student at Griffith University (Mid 2023 Graduate)</i>
+subtitle: <b>Bachelor of Information Technology <br> Major in Software Development</b>  <br> <i>Griffith University (Mid 2023 Graduate seeking final year placement)</i>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Yarrabilba, QLD 4207</p>
+    <p>Logan, QLD 4207</p>
 
 # news: true  # includes a list of news items
 # selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -23,7 +23,7 @@ I have used some seriously painful software, in my personal life aswell as the R
 
 In my spare time I'm out exploring on my Suzuki DRZ400 Dirtbike, and camping on the beach. I've been 4 Wheel Driving to Cape York, although still have many remote parts of Australia on my radar to explore.
 
-This website demonstrates my experiences and skills within software development, outlining details of projects that I have completed, aswell as containing my resume.
+This website demonstrates my experiences and skills within software development and programming, outlining details of projects that I have completed, aswell as containing my resume.
 
 I am hoping to gain experience working with companies and people who share my passion. 
 
