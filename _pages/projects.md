@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /Projects/
 description: Projects demonstrating Software Development knowledge and skills
-nav: true
+nav: false
 nav_order: 2
 display_categories: [work, fun]
 horizontal: false
