@@ -22,7 +22,6 @@ During the placement project, I learned how to come up with and implement a new 
 
 For Self-development and future projects, I plan on researching other testing projects and solutions to discover other ways this project could be achieved. Online learning resource Udemy provide C# unit testing courses with a focus on best practices which I will enrol in. In future, I will be more aware of information I require for planning and execution of project solutions, and make a list of prioritised questions, ensuring that I ask the right questions at the right time. This would include when a solution is becoming infeasible, and I may require further direction or a second opinion. 
 
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/CromartyLogo.JPG" title="Cromarty Reception" class="img-fluid rounded z-depth-1" %}
