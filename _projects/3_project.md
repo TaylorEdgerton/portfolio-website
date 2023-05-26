@@ -1,42 +1,33 @@
 ---
 layout: page
-title: Testing Framework Placement Project Technical And Transferable Skills
-description: Reflection of technical and transferable skills obtained from the project
-img: ./assets/img/DeskSpace.JPG
+title: Testing Framework Placement Project Critical Reflection
+description: Critical reflection of my work integration learning experience project
+img: ./assets/img/CromartyLogo.JPG
 importance: 3
 
 
 ---
 
-Cromarty is an automation engineering and robotics company with many projects in a vast range of industries. My work integrated learning (WIL) project was to research and deliver a regression testing framework for a pre-packages meal picking software system for a nation-wide meal supplier. This program written in C# began as a smaller project and grew to be complex and not having a unit and integration testing framework. As new features have been added, it has become clear to the project manager that a testing framework be implemented to increase efficiency and improve the development of new versions and iterations. This testing framework would ensure no new bugs are introduced into future versions of the program.  
+Automation and engineering specialists Cromarty required research and implementation of a testing framework for their frozen meal picking system software. I was offered this project as part of my work integrated learning (WIL) experience and accepted their offer. I was advised that this piece of software had grown from it’s first iteration into a large, complicated project with many intricate functionalities, and as the project expanded, it was apparent that testing would streamline the development process, making tedious manual testing methods a lot more efficient. My supervisor explained their requirement for a regression testing solution where a testing framework developed, would compare a valid, large amounts of data manipulated data for functionality. Conceptually this valid manipulated data could be compared with new iterations to ensure that new code didn’t introduce new bugs.
 
- 
+This software was written in C# using the Visual Studio IDE, and I was given free rein to investigate and implement a solution by any means necessary. Having no previous experience in C# or Visual Studio, I relied on previous experience learning new languages and IDE’s. I had previously written unit and integration tests for previous university projects, although didn’t have experience writing tests for large, complicated projects. After some research, I decided that unit testing framework NUnit could be used to execute and output results of these tests, and data could be outputted, logged and compared efficiently using JSON and a JSON reading and writing library. The software I was testing was very complicated and had no previous testing implementation. Some aspects of the software were difficult to understand, and without commenting or documentation. 
 
-The main goal of my solution would be to implement a regression test that would check the meal and customer order data from a valid version matched the new versions program data. If the data did match, the testing program would let the developer know it passed the test, and if not, the program would indicate which records were different.  
+It was apparent that I would need to ask many questions to ensure that I delivered an appropriate and usable solution for the organisation. At first, I listed questions that could get me started in developing a project plan and decide on appropriate deliverables. It was also evident that my supervisor and other team members I could ask were very busy with time sensitive projects, and my communication and prioritisation of questions needed to be clear and thought out. As I built more rapport with my supervisor and others on the project, and more confident in understanding the project, code and what was required, I found it easier to prioritise and ask questions to progress. 
 
- 
+Becoming stuck on a problem that was halting progress was another challenge I faced, and understanding when to re-evaluate a solution to a problem that is halting progress. This issue also relates to communication and asking the right questions at the right times. Twice I came to the realisation that the solution I had decided either wasn’t possible, or after a period of time, there were too many challenges and became unattainable. Deciding when to abandon a solution is a difficult decision, and because of these challenges my project didn’t achieve milestone deadlines.
 
-To carry out this project I needed to learn the C# language, as well as the Visual Studio IDE, and research and implement a testing framework solution, and other libraries required for the solution. After being introduced to the program and the code, I would also learn how to use SQL Server Management Studio to query and administer database settings and backups. Once familiar with the code and program, I developed and created a plan that would provide Cromarty with the deliverables required. Originally, I decided to implement a testing framework where two version of the program would be contained in a visual studio IDE environment and both solutions be built at the same time allowing my testing framework to compare the datasets. After it was discovered that this solution was unfeasible for me to implement, I decided to create a process where a valid version would output test JSON data files, and a new version could test its JSON data files against the valid versions.  I researched a library for reading and writing JSON data called Newtonsoft, and a comparison library call JsonDiffPatch for comparing JSON file data. This output of JSON files would allow valid version files to be saved in a testing folder for testing future iterations with old valid data, and output log files for test results could also be saved.  
+Not having programmed in C#, used the Visual Studio IDE, or written regression tests before, was very challenging. Because of this experience, I feel I gained confidence in learning and implementing new languages, frameworks and IDEs. To learn these new skills, I used online resources and documentation, and at times asked my supervisor if I was still unable to find the answer. 
 
- 
+During the placement project, I learned how to come up with and implement a new solution to a specific problem. I learned ways to decide on and plan a solution and decide the best course of action based on the client’s requirements. My soft skills acquired throughout my working career helped me to communicate with project team members and my supervisor. Although initially feeling confident, I have also realised that I could improve on communicating complex problems, and explaining my thoughts in ways others can understand. Becoming more aware of the ways others might interpret or misunderstand my explanations and plans for solutions and projects, and asking the right questions can be improved. 
 
-To carry out this project I needed to learn the C# programming language which I had no previous experience. I used online resources, reviewed the source code, and questioned my supervisor. I used online resources to learn about the Visual Studio IDE, as well as asked my supervisor and other team members with specific questions I had. I also used library documentation to learn JsonDiffPatch, Newtonsoft and C#. 
-
- 
-
-Having experience in learning new languages, frameworks, libraires and IDEs before, I felt this experience strengthened current skills as well as provided me with new knowledge of a very well used application programming language and IDE. This project also built upon my problem-solving skills, as the project itself was very open ended, with the goal of the project for me to find a solution however I saw feasible and fit. I created a project plan and presented my understanding of the brief, functional requirements and deliverables for the project, and created milestones and goals. This task helped me understand the challenges involved in researching, carrying out and managing a small complex project. I did not meet my milestone deadlines, and two of my proposed solutions were abandoned as they were found to be unfeasible for me to pursue. Although my delivered project fulfilled all but one of the functional requirements, my supervisor indicated that he was happy with the result. The testing framework implemented is to be implemented into current development and integration procedures, within the team looking to write unit and integration tests for new iterations.  
-
- 
-
-This experience has proven to be extremely beneficial for my future development as a Software Developer. Reviewing a large program and learning a popular language C#, as well as experience writing and implementing real world testing solutions that benefit and streamline development process will help my employability as a graduate.   
+For Self-development and future projects, I plan on researching other testing projects and solutions to discover other ways this project could be achieved. Online learning resource Udemy provide C# unit testing courses with a focus on best practices which I will enrol in. In future, I will be more aware of information I require for planning and execution of project solutions, and make a list of prioritised questions, ensuring that I ask the right questions at the right time. This would include when a solution is becoming infeasible, and I may require further direction or a second opinion. 
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DeskSpace.JPG" title="Desk" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Hardware.JPG" title="Hardware" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CromartyLogo.JPG" title="Cromarty Reception" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+
 
