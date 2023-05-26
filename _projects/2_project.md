@@ -38,6 +38,5 @@ This experience has proven to be extremely beneficial for my future development 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Hardware.JPG" title="Hardware" class="img-fluid rounded z-depth-1" %}
     </div>
-
 </div>
 
