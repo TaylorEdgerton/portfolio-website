@@ -3,7 +3,7 @@ layout: page
 title: Testing Framework Placement Project Technical And Transferable Skills
 description: Reflection of technical and transferable skills obtained from the project
 img: ./assets/img/DeskSpace.jpg
-importance: 2
+importance: 1
 
 
 ---

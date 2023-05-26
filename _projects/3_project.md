@@ -3,7 +3,7 @@ layout: page
 title: Ethical Conduct and Professional Accountability
 description: Reflection of Ethical Conduct.
 img: ./assets/img/DeskSpace.jpg
-importance: 3
+importance: 1
 
 
 ---
