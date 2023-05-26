@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Work Integrated Learning
 permalink: /Projects/
-description: Projects demonstrating Software Development knowledge and skills
+description: Work Integrated Learning experience demonstrating Software Development knowledge and skills
 nav: true
 nav_order: 2
 display_categories: [work, fun]

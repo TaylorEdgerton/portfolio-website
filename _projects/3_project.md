@@ -1,20 +1,21 @@
 ---
 layout: page
-title: Web Chat App
-description: A web chat app utilising Nodejs backend, and Angular front end frameworks.
+title: Ethical Conduct and Professional Accountability
+description: Reflection on project experience with ethical conduct and professional accountability
 img: assets/img/chatapp_ss4.png
 importance: 3
 
 ---
 
-I was required to create a web chat app using Angular front and a Nodejs server back end. Requirements included the use of Socket.io modules and connections, express modules and REST apis for communication between client and server sides of the application. 
-The application would contain groups and channels where clients can communicate with each other. Mongodb was used for object oriented database queries access and storage of user and chat information. Different privileges were also required for Admin users. Unit testing was also required using chaiJS.
+#Professionalism: 
 
-This project was my introduction to designing and implementing server side functionality which communicates with the client side using RESTful apis. This was also further demonstration for the use of reading documentation to implement frameworks such as Nodejs, sockets and express to solve a problem. 
+During my attendance I ensured that I was punctual and attended the office on the days that were agreed. There was one day I needed to let my supervisor know that I needed to switch days and let him know as soon as I knew I wouldn’t make it. I still attended the two days in the week. As part of professionalism, I asked if there was a company dress code, and because my role was not client facing, I could wear more casual attire. Riding my motorbike each day, I made sure I wore a collared polo shirt, jeans and smart casual shoes. I had my own email account, although the team communicated in person or over teams, I noticed that I hadn’t checked it for 2 weeks and company emails began piling up. I realised that this wasn’t very professional as I had missed out on important announcements and I will be checking and sorting emails each day. 
 
+ 
 
-The project source files can be found [HERE](https://github.com/TaylorEdgerton/chat-app)
+#Use of AI: 
 
+Most team members use ChatGPT on a regular basis to help with ideas and solutions to problems. I also used ChatGPT especially while learning C# and other libraries and frameworks. There were times when I needed ChatGPT to write me a piece of code that I couldn’t work out, although the code didn’t do exactly what I intended or explained. Writing my report and findings for the company would have been more efficient using ChatGPT to do this, although ChatGPT has helped with ideas and learning, I thought that this might be unethical for it to write the report for me, so I decided against it.  
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/chatapp_ss1.png" title="Chat app screenshot1" class="img-fluid rounded z-depth-1" %}
