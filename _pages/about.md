@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b>Bachelor of Information Technology <br> Major in Software Development</b>  <br> <i>Griffith University (Mid 2023 Graduate seeking final year placement)</i>
+subtitle: <b>Bachelor of Information Technology <br> Major in Software Development</b>  <br> <i>Griffith University (Mid 2023 Graduate)</i>
 
 profile:
   align: right
