@@ -19,7 +19,7 @@ Hi, I'm Taylor.
 
 I've been obsessed with tech and computers since I can remember. Building my own computers, helping Dad at work with Server Administration, and secretly nerding out at LAN parties in the 2000s playing original COD. 
 
-I have used some seriously painful software, in my personal life aswell as the Real Estate and Retail worlds, and can say confidently that I am excited about software, web apps and mobile apps that have awesome UX and UI, made with the user in mind.
+I have used some seriously painful software, in my personal life aswell as the Real Estate and Retail worlds, and can say confidently that I am excited about software, automation systems, and solutions for real world problems.
 
 In my spare time I'm out exploring on my Suzuki DRZ400 Dirtbike, and camping on the beach. I've been 4 Wheel Driving to Cape York, although still have many remote parts of Australia on my radar to explore.
 
