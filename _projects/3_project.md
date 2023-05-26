@@ -2,7 +2,7 @@
 layout: page
 title: Ethical Conduct and Professional Accountability
 description: Reflection on ethical conduct and professional accountability during Work Integrated Learning
-img: ./assets/img/Hardware.JPG
+img: ./assets/img/Hardware2.JPG
 importance: 1
 
 
@@ -18,6 +18,6 @@ Most team members use ChatGPT on a regular basis to help with ideas and solution
 
 <div class="row">    
 <div class="col-sm mt-3 mt-md-0">        
-{% include figure.html path="assets/img/Hardware.jpg" title="Hardware" class="img-fluid rounded z-depth-1" %}    
+{% include figure.html path="assets/img/Hardware2.jpg" title="Hardware" class="img-fluid rounded z-depth-1" %}    
 </div>
 </div>

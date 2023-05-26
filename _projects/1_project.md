@@ -2,7 +2,7 @@
 layout: page
 title: Testing Framework Placement Project Critical Reflection
 description: Critical reflection of my work integration learning experience project
-img: ./assets/img/CromartyLogo.jpg
+img: ./assets/img/CromartyLogo2.jpg
 importance: 1
 
 
@@ -25,7 +25,7 @@ For Self-development and future projects, I plan on researching other testing pr
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/CromartyLogo.jpg" title="Cromarty Reception" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/CromartyLogo2.jpg" title="Cromarty Reception" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

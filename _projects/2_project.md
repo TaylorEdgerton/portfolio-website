@@ -2,7 +2,7 @@
 layout: page
 title: Testing Framework Placement Project Technical And Transferable Skills
 description: Reflection of technical and transferable skills obtained from the project
-img: ./assets/img/DeskSpace.JPG
+img: ./assets/img/DeskSpace2.JPG
 importance: 1
 
 
@@ -33,10 +33,10 @@ This experience has proven to be extremely beneficial for my future development 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/DeskSpace.JPG" title="Desk" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DeskSpace2.JPG" title="Desk" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Hardware.JPG" title="Hardware" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Hardware2.JPG" title="Hardware" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
