@@ -2,7 +2,7 @@
 layout: page
 title: Testing Framework Placement Project Technical And Transferable Skills
 description: Reflection of technical and transferable skills obtained from the project
-img: ./assets/img/app-screenshot1.png
+img: ./assets/img/DeskSpace.JPG
 importance: 3
 
 
@@ -33,27 +33,11 @@ This experience has proven to be extremely beneficial for my future development 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/app-screenshot1.png" title="App Screenshot 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/DeskSpace.JPG" title="Desk" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/app-screenshot2.png" title="App Screenshot 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Hardware.JPG" title="Hardware" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/app-screenshot3.png" title="App Screenshot 3" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/app-screenshot4.png" title="App Screenshot 4" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Screenshots of the "add household" modal, main menu and map screens.
-</div>
-<div style="float:left;">
-    <a href="/projects/1_project">PREVIOUS PROJECT</a>
-</div>
-<div style="float:right;">
-    <a href="/">NEXT PROJECT</a>
+
 </div>
 
