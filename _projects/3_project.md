@@ -2,7 +2,7 @@
 layout: page
 title: Ethical Conduct and Professional Accountability
 description: Reflection on ethical conduct and professional accountability during Work Integrated Learning
-img: ./assets/img/Hardware.jpg
+img: ./assets/img/Hardware.JPG
 importance: 1
 
 
